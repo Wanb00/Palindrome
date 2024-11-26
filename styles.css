@@ -29,7 +29,7 @@ body {
 
 .description {
   text-align: center;
-  max-width: 60%;
+  width: min(100vw, 450px);
   padding: 1rem 0;
   background-color: maroon;
   border-radius: 20px;
